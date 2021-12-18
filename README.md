@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GodFihre
+- 👀 I’m Front-end Developer
+- 🌱 I’m currently learning JS CSS and HTML
+- If u have any questions reach me on discord: GodFihre#1508
